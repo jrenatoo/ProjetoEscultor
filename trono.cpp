@@ -1,6 +1,7 @@
 #include "Sculptor.hpp"
 #include <iostream>
 #include <fstream>
+
 int main(void){
     
     Sculptor trono(10,10,10);
